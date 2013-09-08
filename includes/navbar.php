@@ -12,6 +12,9 @@
             <a class="navbar-brand" href="#">Project name</a>
           </div>
           <div class="collapse navbar-collapse">
+            <p class="navbar-text pull-right">
+              Logged in as <a href="#" class="navbar-link">Guest</a>
+            </p>
             <ul class="nav navbar-nav">
               <li class="active"><a href="#">Home</a></li>
               <li><a href="#about">About</a></li>
